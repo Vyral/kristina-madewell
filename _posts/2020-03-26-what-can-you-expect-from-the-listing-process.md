@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From the Listing Process?
-date:
+date: 2020-03-26 19:38:33
 tags:
 excerpt: >-
   Listing Manager Chelsea Kunkel joins me to expand a bit on how she helps
